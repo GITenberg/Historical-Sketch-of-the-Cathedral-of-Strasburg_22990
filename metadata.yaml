@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22990#Historical-Sketch-of-the-Cathedral-of-Strasburg
 gutenberg_bookshelf: Architecture
 gutenberg_issued: '2007-10-12'
 gutenberg_type: Text
